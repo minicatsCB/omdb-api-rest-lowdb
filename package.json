@@ -22,7 +22,7 @@
   "homepage": "https://github.com/minicatsCB/omdb-lowdb#readme",
   "dependencies": {
     "express": "4.17.1",
-    "lodash": "4.17.11",
+    "lodash": "4.17.13",
     "lodash-id": "0.14.0",
     "lowdb": "1.0.0"
   },
